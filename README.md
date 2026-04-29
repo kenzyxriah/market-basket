@@ -15,7 +15,9 @@ data and build a robust, interactive Business Intelligence tool. This tool must
 clean the data, establish a relational data architecture, segment the customer
 base, and serve as a dynamic recommendation engine for the marketing team.
 
-<img width="225" height="225" alt="retail2png" src="https://github.com/user-attachments/assets/76309485-100b-4227-974a-f0c09700b969" />
+Link to the file is below
+<img width="600" height="409" alt="image" src="https://github.com/user-attachments/assets/c441a898-19f1-4fc6-b24a-44164bdf6222" />
 
-<img width="259" height="194" alt="online_retail_test" src="https://github.com/user-attachments/assets/76e12b69-2a5e-41cc-af9f-7fb6716863b5" />
+[Excel Sheet](https://docs.google.com/spreadsheets/d/1sHEfmm46DmgNBDSvmdysm6lA2Qb0xejQ/edit?usp=sharing&ouid=105508576564606666021&rtpof=true&sd=true)
+
 
